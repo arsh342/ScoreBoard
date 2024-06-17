@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Digital Dismay Regular';
+    src: url('DigitalDismay.otf') format('opentype');
+}
+body {
+    margin: 0;
+    background-color: #9CA3AF;
+}
+header h1 {
+    color: #E0F2FE;
+    font-size: 45px;
+    padding: 20px;
+    text-align: center;
+    background-color: #111827;
+    font-family: monospace;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 600px;
+    background-color:#1F2937;
+}
+.teamBox {
+    height: 500px;
+    width: 500px;
+    margin: 60px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.teamBox h3 {
+    color:#E0F2FE;
+    font-weight: 1000;
+    font-size: 60px;
+    padding: 10px;
+    margin: 0 auto;
+    font-family: monospace;
+}
+.screen{
+    height: 300px;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #111827;
+    text-align: right;
+    border-radius: 10px;
+}
+
+.screen h1 {
+    margin: 0%;
+    color:#E11D48;
+    font-family: 'Digital Dismay Regular';
+    font-weight: 400;
+    font-size: 200px;
+    padding: 50px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+#increment-btn {
+    background-color:#065F46;
+    color:#E0F2FE;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+    width: 100px;
+    justify-content: center;
+}
+.newGame {
+    display: flex;
+    justify-content: space-evenly;
+}
+#reset-btn {
+    background-color:#D97706;
+    color:#E0F2FE;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+    width: 100px;
+    justify-content: center;
+}

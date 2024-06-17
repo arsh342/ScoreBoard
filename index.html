@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Score Board</h1>
+    </header>
+    <div class="container">
+        <div class="teamBox">
+            <h3>Player 1</h3>
+            <div class="screen">
+                <i><h1 id="count-el1">0</h1></i>
+            </div>
+            <div class="buttons">
+                <button id="increment-btn" onclick="increment11()">+1</button>
+                <button id="increment-btn" onclick="increment12()">+2</button>
+                <button id="increment-btn" onclick="increment13()">+3</button>
+            </div>
+        </div>
+        <div class="teamBox">
+            <h3>Player 2</h3>
+            <div class="screen">
+                <i><h1 id="count-el2">0</h1></i>
+            </div>
+            <div class="buttons">
+                <button id="increment-btn" onclick="increment21()">+1</button>
+                <button id="increment-btn" onclick="increment22()">+2</button>
+                <button id="increment-btn" onclick="increment23()">+3</button>
+            </div>
+        </div>
+    </div>
+    <div class="newGame">
+        <button id="reset-btn" onclick="reset()">RESET</button>
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
