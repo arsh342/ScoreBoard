@@ -61,12 +61,12 @@ An online scoreboard is a digital platform that tracks and displays scores and o
 
 By providing real-time, accurate, and visually appealing score updates, online scoreboards enhance the experience for participants and audiences alike, making it easier to follow the action and stay engaged with the event.
 
-# Technologies Used
+## Technologies Used
 
 -HTML5
 -CSS3
 -JavaScript
 
-# Contact
+## Contact
 -LinkedIn  https://www.linkedin.com/in/arshdeep-singh-3b7521297/
 -Twitter   @Thearshsran
