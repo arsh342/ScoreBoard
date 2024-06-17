@@ -63,10 +63,10 @@ By providing real-time, accurate, and visually appealing score updates, online s
 
 ### Technologies Used:
 
--HTML5
--CSS3
--JavaScript
+**-HTML5**
+**-CSS3**
+**-JavaScript**
 
 ### Contact:
--LinkedIn  https://www.linkedin.com/in/arshdeep-singh-3b7521297/
--Twitter   @Thearshsran
+**-LinkedIn  https://www.linkedin.com/in/arshdeep-singh-3b7521297/**
+**-Twitter   @Thearshsran**
